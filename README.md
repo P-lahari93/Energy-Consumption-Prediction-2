@@ -1,2 +1,3 @@
-# Energy-Prediction-in--house
-Prediction heating &amp; cooling energy before building house to save energy
+# Energy Consumption Prediction
+
+This project predicts household energy consumption using machine learning.
